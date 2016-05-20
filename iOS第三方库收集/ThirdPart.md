@@ -24,14 +24,20 @@
 ** UIDatePick **
 
 1. [HooDatePicker](https://github.com/jakciehoo/HooDatePicker)
+2. [ActionSheetPicker](https://github.com/skywinder/ActionSheetPicker-3.0)
 
 ** HUD **
 
 1. [TWMessageBarManager](https://github.com/terryworona/TWMessageBarManager)
 
+** Button **
+
+1. [PPiAwesomeButton](https://github.com/pepibumur/PPiAwesomeButton)
+
 ** 相片 **
 
 1. [Vertigo](https://github.com/gonzalezreal/Vertigo)
+2. [QBImagePicker](https://github.com/questbeat/QBImagePicker)：提供多选
 
 ** 性能优化 **
 
@@ -84,3 +90,15 @@
 ** 分享 **
 
 1. [分享的menu视图](https://github.com/ws00801526/XMNShareMenuExample)
+
+** 完整项目 **
+
+1. [Coding-iOS](https://github.com/Coding/Coding-iOS)
+
+** 键盘 **
+
+1. [AGEmojiKeyboard](https://github.com/ayushgoel/AGEmojiKeyboard):表情键盘
+2. [NSStringEmojize](https://github.com/diy/NSStringEmojize): 表情字符
+
+** 字体 **
+1. [ios-fontawesome](https://github.com/alexdrone/ios-fontawesome)
