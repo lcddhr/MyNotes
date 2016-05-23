@@ -8,6 +8,14 @@
 1. [AutoLayout和SizeClass教程](http://blog.csdn.net/colorapp/article/details/44924609)
 2.  [AutoLayout的练习例子](https://github.com/zekunyan/AutolayoutExampleWithMasonry)
 
+** UIImage **
+
+1. [NYXImagesKit](https://github.com/Nyx0uf/NYXImagesKit)：跟UIImage处理相关的库
+
+** UILabel **
+
+1. [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel):文字滚动效果
+
 ** UIWebView **
 
 1. [UIWebView网页宽度自适应问题](http://blog.csdn.net/colorapp/article/details/43565859)
@@ -21,6 +29,9 @@
 1. [zjswitch](https://github.com/Jameszjhe/zjswitch)
 2. [LLSwitch](https://github.com/lilei644/LLSwitch)
 
+** UITableView **
+
+1. [APParallaxHeader](https://github.com/apping/APParallaxHeader)：头部视差
 ** UIDatePick **
 
 1. [HooDatePicker](https://github.com/jakciehoo/HooDatePicker)
