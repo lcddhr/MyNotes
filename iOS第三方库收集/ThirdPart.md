@@ -29,6 +29,11 @@
 1. [zjswitch](https://github.com/Jameszjhe/zjswitch)
 2. [LLSwitch](https://github.com/lilei644/LLSwitch)
 
+** UIActionSheet **
+
+1. [TBActionSheet](https://github.com/yulingtianxia/TBActionSheet)
+
+
 ** UITableView **
 
 1. [APParallaxHeader](https://github.com/apping/APParallaxHeader)：头部视差
@@ -49,6 +54,12 @@
 
 1. [Vertigo](https://github.com/gonzalezreal/Vertigo)
 2. [QBImagePicker](https://github.com/questbeat/QBImagePicker)：提供多选
+
+** 菜单列表 **
+
+1. [ESTCollectionViewDropDownList](https://github.com/Aufree/ESTCollectionViewDropDownList) : 虾米音乐下拉菜单列表。
+
+
 
 ** 性能优化 **
 
