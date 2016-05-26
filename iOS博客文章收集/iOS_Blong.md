@@ -8,3 +8,13 @@
 ** WeRead 团队博客 **
 
 1. [WeRead](http://wereadteam.github.io/): 微信读书团队的博客、质量非常高、涉及有性能优化、组件化、工具等介绍。
+
+** Swift 学习资料 **
+
+1. [swift-summary](https://github.com/jakarmy/swift-summary)
+
+** 导航栏 **
+
+1. [处理导航栏的方式](http://www.jianshu.com/p/b2585c37e14b)
+2. [导航栏透明处理](https://www.zhihu.com/question/36659843) 
+3. [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition)

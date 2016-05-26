@@ -11,6 +11,8 @@
 ** UIImage **
 
 1. [NYXImagesKit](https://github.com/Nyx0uf/NYXImagesKit)：跟UIImage处理相关的库
+2. [ZYCornerRadius](https://github.com/liuzhiyi1992/ZYCornerRadius):处理圆角
+3. [HJCornerRadius](https://github.com/panghaijiao/HJCornerRadius):处理圆角问题
 
 ** UILabel **
 
@@ -37,11 +39,17 @@
 ** UITableView **
 
 1. [APParallaxHeader](https://github.com/apping/APParallaxHeader)：头部视差
+
 ** UIDatePick **
 
 1. [HooDatePicker](https://github.com/jakciehoo/HooDatePicker)
 2. [ActionSheetPicker](https://github.com/skywinder/ActionSheetPicker-3.0)
 
+
+** TextAttributes **
+
+1. [TextAttributes](https://github.com/delba/TextAttributes)
+ 
 ** HUD **
 
 1. [TWMessageBarManager](https://github.com/terryworona/TWMessageBarManager)
@@ -59,7 +67,13 @@
 
 1. [ESTCollectionViewDropDownList](https://github.com/Aufree/ESTCollectionViewDropDownList) : 虾米音乐下拉菜单列表。
 
+** 导航栏 **
 
+1. [JXT_iOS_Demos](https://github.com/kukumaluCN/JXT_iOS_Demos)
+
+** 朋友圈 **
+
+1. [Gallop](https://github.com/waynezxcv/Gallop)
 
 ** 性能优化 **
 
@@ -101,8 +115,8 @@
 
 1. [ZFPlayer](https://github.com/renzifeng/ZFPlayer):基于AVPlayer，支持横屏、竖屏（全屏播放还可锁定屏幕方向），上下滑动调节音量、屏幕亮度，左右滑动调节播放进度。
 2. [视频直播SDK](https://github.com/runner365/LiveVideoCoreSDK)
-3. [视频弹幕](https://github.com/unash/BarrageRenderer)
-4. 
+3. [视频弹幕BarrageRenderer](https://github.com/unash/BarrageRenderer)
+4. [视频弹幕HJDanmakuDemo](https://github.com/panghaijiao/HJDanmakuDemo)
 
 ** 表格 **
 

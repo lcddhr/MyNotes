@@ -59,3 +59,8 @@ static char touchExtendInsetKey;
 
 @end
 ```
+
+## 4.镂空文字，类似歌曲进度显示文字
+
+参考资料[这里](http://www.jianshu.com/p/93592bdc99c6)
+
