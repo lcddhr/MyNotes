@@ -53,6 +53,7 @@
 ** HUD **
 
 1. [TWMessageBarManager](https://github.com/terryworona/TWMessageBarManager)
+2. [KLCPopup](https://github.com/jmascia/KLCPopup):菜单类型的弹出框
 
 ** Button **
 
@@ -73,7 +74,12 @@
 
 ** 朋友圈 **
 
-1. [Gallop](https://github.com/waynezxcv/Gallop)
+1. [Gallop](https://github.com/waynezxcv/Gallop) 
+
+** 倒计时 **
+
+1.[CountdownLabel](https://github.com/suzuki-0000/CountdownLabel)
+
 
 ** 性能优化 **
 
