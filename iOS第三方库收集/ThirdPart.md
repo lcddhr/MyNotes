@@ -54,6 +54,7 @@
 
 1. [TWMessageBarManager](https://github.com/terryworona/TWMessageBarManager)
 2. [KLCPopup](https://github.com/jmascia/KLCPopup):菜单类型的弹出框
+3. [M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite):进度条
 
 ** Button **
 
@@ -63,8 +64,12 @@
 
 1. [Vertigo](https://github.com/gonzalezreal/Vertigo)
 2. [QBImagePicker](https://github.com/questbeat/QBImagePicker)：提供多选
+3. [DZNPhotoPickerController](https://github.com/dzenbot/DZNPhotoPickerController)
+4. [ImagePickerSheetController](https://github.com/lbrndnr/ImagePickerSheetController): actionsheet展示相册选择，并且有UI测试
 
-** 菜单列表 **
+
+*
+* 菜单列表 **
 
 1. [ESTCollectionViewDropDownList](https://github.com/Aufree/ESTCollectionViewDropDownList) : 虾米音乐下拉菜单列表。
 
@@ -80,6 +85,12 @@
 
 1.[CountdownLabel](https://github.com/suzuki-0000/CountdownLabel)
 
+** 转场动画 **
+
+1.[Bzier-Animation-FloatingWindow](https://github.com/HZQuan/Bzier-Animation-FloatingWindow): 圆形的转场动画、有一个浮动的窗口
+
+** 显示FPS **
+1. [JPFPSStatus](https://github.com/joggerplus/JPFPSStatus)
 
 ** 性能优化 **
 
@@ -116,6 +127,10 @@
 ** 启动 **
 
 1. [动画启动图](https://github.com/yeziahehe/YFStartView)
+
+** 标签 **
+1. [WangYiNewsSegment](https://github.com/caixiaofan1/WangYiNewsSegment):仿网易菜单标签栏，可以移动、删除、添加。
+
 
 ** 视频 **
 

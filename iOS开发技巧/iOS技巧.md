@@ -64,3 +64,37 @@ static char touchExtendInsetKey;
 
 参考资料[这里](http://www.jianshu.com/p/93592bdc99c6)
 
+## 5. TableView的封装
+参考资料[这里](https://github.com/bestswifter/MySampleCode/tree/master/KtTableView)
+
+
+## 6.file's owner and custom class区别
+
+`File's owner`：加载xib的对象，能够接收到loadNibNamed:或者是initWithNibName:消息
+
+
+## 7. xib的嵌套使用
+
+把自定义xib对象的`custom class` 取消换成`file's owner`, 这里的xib只是一个容器对象。
+
+在`initWitCoder`里面把xib的内容加载上去
+
+```
+	- (instancetype)initWithCoder:(NSCoder *)aDecoder {
+    
+    self = [super initWithCoder:aDecoder];
+    if (self) {
+        
+        UIView *containerView = [[[UINib nibWithNibName:@"DDView" bundle:nil] instantiateWithOwner:self options:nil] objectAtIndex:0];
+        CGRect newFrame = CGRectMake(0, 0, self.frame.size.width, self.frame.size.height);
+        containerView.frame = newFrame;
+        [self addSubview:containerView];
+    }
+    return self;
+}
+```
+
+
+然后在需要使用到这个对象的xib内的custom class定义成这个对象的类
+
+

@@ -18,3 +18,6 @@
 1. [处理导航栏的方式](http://www.jianshu.com/p/b2585c37e14b)
 2. [导航栏透明处理](https://www.zhihu.com/question/36659843) 
 3. [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition)
+
+** 完整app 收集**
+1.[完整app](http://mobdevgroup.com/platform/ios/project)
