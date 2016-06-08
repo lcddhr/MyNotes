@@ -98,3 +98,14 @@ static char touchExtendInsetKey;
 然后在需要使用到这个对象的xib内的custom class定义成这个对象的类
 
 
+## 8. Pod intsll 和 Pod update 区别
+
++	pod install:  下载并且安装新的 pod，将安装的 pod 信息写入 `Podfile.lock`
+	+	对于已经在 Podfile.lock 中的 pod，它会下载在 Podfile.lcok 中指示的版本，不会去检查有没有新版本
+	+	对于没有出现在 Podfile.lock 中的 pod，它会搜索符合 Podfile 中要求的版本
+
++	pod update:
+
+	+	当你执行 pod update SomePodName 的时候， CocoaPods 会试着找到一个更新的 SomePodName，不会理会已经在 Podfile.lock 中已经存在的版本。在满足 Podfile 中对版本的约束的情况下，它会试图把 pod 更新到尽可能新的版本。
+
+	+	如果你只执行 pod update 后面没有跟任何 pod 的名字，CocoaPods 会把 Podfile 中所有列出的 pod 都更新到尽可能新的版本。
