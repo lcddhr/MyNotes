@@ -56,7 +56,7 @@
 2. [KLCPopup](https://github.com/jmascia/KLCPopup):菜单类型的弹出框
 3. [M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite):进度条
 4. [MONActivityIndicatorView](https://github.com/mownier/MONActivityIndicatorView)
-5. 
+5. [CCActivityHUD](https://github.com/Cokile/CCActivityHUD)
 ** Button **
 
 1. [PPiAwesomeButton](https://github.com/pepibumur/PPiAwesomeButton)
@@ -73,6 +73,10 @@
 * 菜单列表 **
 
 1. [ESTCollectionViewDropDownList](https://github.com/Aufree/ESTCollectionViewDropDownList) : 虾米音乐下拉菜单列表。
+
+** collection view **
+
+1. [GSKStretchyHeaderView](https://github.com/gskbyte/GSKStretchyHeaderView):头部悬停、放大
 
 ** 导航栏 **
 
