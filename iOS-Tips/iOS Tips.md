@@ -109,3 +109,6 @@ static char touchExtendInsetKey;
 	+	当你执行 pod update SomePodName 的时候， CocoaPods 会试着找到一个更新的 SomePodName，不会理会已经在 Podfile.lock 中已经存在的版本。在满足 Podfile 中对版本的约束的情况下，它会试图把 pod 更新到尽可能新的版本。
 
 	+	如果你只执行 pod update 后面没有跟任何 pod 的名字，CocoaPods 会把 Podfile 中所有列出的 pod 都更新到尽可能新的版本。
+	
+## 9. XCTAssertEqualWithAccuracy
+判断相等，提供一个误差范围

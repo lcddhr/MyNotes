@@ -57,6 +57,7 @@
 3. [M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite):进度条
 4. [MONActivityIndicatorView](https://github.com/mownier/MONActivityIndicatorView)
 5. [CCActivityHUD](https://github.com/Cokile/CCActivityHUD)
+6. [ZHPopupView](https://github.com/zhhlmr/ZHPopupView):弹出框
 ** Button **
 
 1. [PPiAwesomeButton](https://github.com/pepibumur/PPiAwesomeButton)
@@ -127,6 +128,7 @@
 2. [导航栈](https://github.com/Ramotion/navigation-stack)
 3. [Swift学习例子](https://github.com/MartinRGB/MTSwift-Learning)
 4. [Circle菜单](https://github.com/JaNd3r/CKCircleMenuView)
+5. [Swift物理动画库](https://github.com/AugustRush/Stellar)
 ## Objective-C 
 
 ** 启动 **
