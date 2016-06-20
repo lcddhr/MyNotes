@@ -112,3 +112,22 @@ static char touchExtendInsetKey;
 	
 ## 9. XCTAssertEqualWithAccuracy
 判断相等，提供一个误差范围
+
+## 10. Pod Search失效
+
+CompatibilityError: incompatible character encodings: UTF-8 and ASCII-8BIT
+
+删除`~/Library/Caches/CocoaPods/search_index.json`文件
+
+## 11. 获取图片所占用的内存
+
+```
+	- (size_t) memorySize:(UIImage *)image
+{
+    CGImageRef temp = image.CGImage;
+    size_t instanceSize = class_getInstanceSize(image.class);
+    size_t pixmapSize = CGImageGetHeight(temp) * CGImageGetBytesPerRow(temp);
+    size_t totalSize = instanceSize + pixmapSize;
+    return totalSize;
+}
+```

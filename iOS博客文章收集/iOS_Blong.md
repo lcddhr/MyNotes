@@ -12,6 +12,7 @@
 ** Swift 学习资料 **
 
 1. [swift-summary](https://github.com/jakarmy/swift-summary)
+2. [Swift动画库:](https://github.com/icanzilb/EasyAnimation)EasyAnimation
 
 ** 导航栏 **
 
