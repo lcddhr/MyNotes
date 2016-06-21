@@ -133,3 +133,12 @@ CompatibilityError: incompatible character encodings: UTF-8 and ASCII-8BIT
 ```
 
 ## 12.移除视图的时候也要移除约束
+
+## 13 setNeedsLayout 和 layoutIfNeeded区别
++	setNeedsLayout： 标记为页面需要更新，但不立即执行. 将来某个时刻调用layoutIfNeeded之后会调用系统的layoutSubviews。
+
++	layoutIfNeeded：立即更新
+
+如果想要立即改变约束, 调用setNeedsLayout
+
+如果想要立即改变布局, 形成frame， 调用layoutIfNeeded
