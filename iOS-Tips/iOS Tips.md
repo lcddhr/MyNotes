@@ -131,3 +131,5 @@ CompatibilityError: incompatible character encodings: UTF-8 and ASCII-8BIT
     return totalSize;
 }
 ```
+
+## 12.移除视图的时候也要移除约束
