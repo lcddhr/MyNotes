@@ -13,6 +13,7 @@
 1. [NYXImagesKit](https://github.com/Nyx0uf/NYXImagesKit)：跟UIImage处理相关的库
 2. [ZYCornerRadius](https://github.com/liuzhiyi1992/ZYCornerRadius):处理圆角
 3. [HJCornerRadius](https://github.com/panghaijiao/HJCornerRadius):处理圆角问题
+4. [LFImageView](https://github.com/LaiFengiOS/LFImageView):SDWebImageView封装, 可以根据网络判断是否需要加载图片
 
 ** UILabel **
 
@@ -58,6 +59,7 @@
 4. [MONActivityIndicatorView](https://github.com/mownier/MONActivityIndicatorView)
 5. [CCActivityHUD](https://github.com/Cokile/CCActivityHUD)
 6. [ZHPopupView](https://github.com/zhhlmr/ZHPopupView):弹出框
+
 ** Button **
 
 1. [PPiAwesomeButton](https://github.com/pepibumur/PPiAwesomeButton)
@@ -69,9 +71,11 @@
 3. [DZNPhotoPickerController](https://github.com/dzenbot/DZNPhotoPickerController)
 4. [ImagePickerSheetController](https://github.com/lbrndnr/ImagePickerSheetController): actionsheet展示相册选择，并且有UI测试
 
+** iOS 10**
 
-*
-* 菜单列表 **
+1. [SaveTheDot](https://github.com/JakeLin/SaveTheDot):
+
+** 菜单列表 **
 
 1. [ESTCollectionViewDropDownList](https://github.com/Aufree/ESTCollectionViewDropDownList) : 虾米音乐下拉菜单列表。
 
@@ -145,6 +149,7 @@
 2. [视频直播SDK](https://github.com/runner365/LiveVideoCoreSDK)
 3. [视频弹幕BarrageRenderer](https://github.com/unash/BarrageRenderer)
 4. [视频弹幕HJDanmakuDemo](https://github.com/panghaijiao/HJDanmakuDemo)
+5. [cineio-broadcast-ios](https://github.com/cine-io/cineio-broadcast-ios):RTMP、HLS流
 
 ** 表格 **
 
