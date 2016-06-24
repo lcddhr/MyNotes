@@ -27,3 +27,7 @@
 1.[http://www.starming.com/index.php?v=index&view=74](http://www.starming.com/index.php?v=index&view=74)
 2.[https://github.com/suifengqjn/PerformanceMonitor](https://github.com/suifengqjn/PerformanceMonitor) 
 3.
+
+** YY系列源码学习文章 **
+
+1. [YYSeriesStudy](https://github.com/huang303513/YYSeriesStudy)

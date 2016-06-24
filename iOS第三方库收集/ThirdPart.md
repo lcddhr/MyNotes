@@ -35,6 +35,7 @@
 ** UIActionSheet **
 
 1. [TBActionSheet](https://github.com/yulingtianxia/TBActionSheet)
+2. [XLActionController](https://github.com/xmartlabs/XLActionController)
 
 
 ** UITableView **
@@ -82,6 +83,7 @@
 ** collection view **
 
 1. [GSKStretchyHeaderView](https://github.com/gskbyte/GSKStretchyHeaderView):头部悬停、放大
+2. [GCCardViewController](https://github.com/Yuzeyang/GCCardViewController):iOS7 向上滑动删除任务
 
 ** 导航栏 **
 
@@ -105,6 +107,8 @@
 ** 性能优化 **
 
 1. [减少应用程序的大小](http://beyondvincent.com/2014/03/24/2014-03-20-reducing-the-size-of-my-app/)
+
+2. [GCDAsyncSocketManager](https://github.com/Yuzeyang/GCDAsyncSocketManager):对GCDAsyncSocket的封装, 提供建连、断开、重连、心跳、通用请求
 
 ** ReactiveCocoa **
 
@@ -135,6 +139,10 @@
 5. [Swift物理动画库](https://github.com/AugustRush/Stellar)
 ## Objective-C 
 
+** page 分页面 **
+
+1. [VTMagic](https://github.com/tianzhuo112/VTMagic):滑动分页
+
 ** 启动 **
 
 1. [动画启动图](https://github.com/yeziahehe/YFStartView)
@@ -154,7 +162,7 @@
 ** 表格 **
 
 1. [股票K线图](https://github.com/yate1996/Y_KLine)
-2. 
+2. [Graphs](https://github.com/recruit-mtl/Graphs): Swift的表格
 
 ** 分享 **
 

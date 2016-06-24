@@ -142,3 +142,7 @@ CompatibilityError: incompatible character encodings: UTF-8 and ASCII-8BIT
 如果想要立即改变约束, 调用setNeedsLayout
 
 如果想要立即改变布局, 形成frame， 调用layoutIfNeeded
+
+## 14、User Header Search Paths 和Header Search Paths区别
+
+Use the User Header Search Paths for paths you want searched for `#include "..."` and use the Header Search Paths for `#include <...>.` Of course, if you check the option to Always Search User Paths, then #include <...> will also work for the user paths.
