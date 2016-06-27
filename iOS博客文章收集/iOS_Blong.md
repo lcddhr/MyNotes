@@ -31,3 +31,6 @@
 ** YY系列源码学习文章 **
 
 1. [YYSeriesStudy](https://github.com/huang303513/YYSeriesStudy)
+
+** 如何才能不崩溃系列 **
+1. [http://ifujun.com/tag/ios/page/3/](http://ifujun.com/tag/ios/page/3/)
