@@ -146,3 +146,25 @@ CompatibilityError: incompatible character encodings: UTF-8 and ASCII-8BIT
 ## 14、User Header Search Paths 和Header Search Paths区别
 
 Use the User Header Search Paths for paths you want searched for `#include "..."` and use the Header Search Paths for `#include <...>.` Of course, if you check the option to Always Search User Paths, then #include <...> will also work for the user paths.
+
+## 15、防止按钮被重复点击
+
+```
+- (void)executeOperation:(void(^)())operation withDelayForRepeatClick:(NSTimeInterval)delay
+
+{
+
+    self.userInteractionEnabled = NO;
+
+    operation();
+
+    __weak typeof(self) weakSelf = self;
+
+    dispatch_after(dispatch_time(DISPATCH_TIME_NOW, (int64_t)(delay * NSEC_PER_SEC)), dispatch_get_main_queue(), ^{
+
+        weakSelf.userInteractionEnabled = YES;
+
+    });
+
+}
+```
