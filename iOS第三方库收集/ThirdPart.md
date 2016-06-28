@@ -97,9 +97,10 @@
 
 1.[CountdownLabel](https://github.com/suzuki-0000/CountdownLabel)
 
-** 转场动画 **
+** 动画 **
 
 1.[Bzier-Animation-FloatingWindow](https://github.com/HZQuan/Bzier-Animation-FloatingWindow): 圆形的转场动画、有一个浮动的窗口
+2.[fantastic-ios-animation](https://github.com/onmyway133/fantastic-ios-animation): 动画的集合
 
 ** 显示FPS **
 1. [JPFPSStatus](https://github.com/joggerplus/JPFPSStatus)
@@ -179,3 +180,9 @@
 
 ** 字体 **
 1. [ios-fontawesome](https://github.com/alexdrone/ios-fontawesome)
+
+** 插件 **
+1. [ESTranslate-Xcode](https://github.com/EnjoySR/ESTranslate-Xcode): 查询单词
+2. [TweakAutocomplete](https://github.com/poboke/TweakAutocomplete):逆向写Tweak自动补全
+3. [Peckham](https://github.com/markohlebar/Peckham): 自动导入头文件
+4. [XcodeColors](https://github.com/robbiehanson/XcodeColors): 显示颜色
