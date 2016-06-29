@@ -138,6 +138,8 @@
 3. [Swift学习例子](https://github.com/MartinRGB/MTSwift-Learning)
 4. [Circle菜单](https://github.com/JaNd3r/CKCircleMenuView)
 5. [Swift物理动画库](https://github.com/AugustRush/Stellar)
+6. [JDAnimationKit](https://github.com/JellyDevelopment/JDAnimationKit):动画集合
+7. [https://github.com/Fnoz/FNMatchPull](https://github.com/Fnoz/FNMatchPull):下拉动画火柴聚合
 ## Objective-C 
 
 ** page 分页面 **
