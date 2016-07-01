@@ -168,3 +168,20 @@ Use the User Header Search Paths for paths you want searched for `#include "..."
 
 }
 ```
+
+## 16、防止循环引用
+
++	 __weak和 __strong
+
++	像pop里面声明的一样， 增加个target	
+
+```
+	typedef BOOL (^POPCustomAnimationBlock)(id target, POPCustomAnimation *animation);
+	
+```
+
+## 17. 在Xcode里面查看某行代码是谁提交的
+
+```
+	右键  -> Show Blame for Line
+```

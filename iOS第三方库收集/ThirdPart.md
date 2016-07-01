@@ -84,6 +84,7 @@
 
 1. [GSKStretchyHeaderView](https://github.com/gskbyte/GSKStretchyHeaderView):头部悬停、放大
 2. [GCCardViewController](https://github.com/Yuzeyang/GCCardViewController):iOS7 向上滑动删除任务
+3. [AWCollectionViewSlidingDoors](https://github.com/awdigital/AWCollectionViewSlidingDoors)
 
 ** 导航栏 **
 
