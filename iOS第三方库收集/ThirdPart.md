@@ -135,6 +135,7 @@
 
 1. [动画工具Quartzcode](http://www.quartzcodeapp.com/)
 2. [Xcode终端输出中文](https://github.com/Forkong/FKConsole)
+3. [WHC_ScanUnreferenceImageTool](https://github.com/netyouli/WHC_ScanUnreferenceImageTool): 扫描没有使用的图片
 
 ** Swift **
 
