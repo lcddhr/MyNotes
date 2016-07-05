@@ -185,3 +185,10 @@ Use the User Header Search Paths for paths you want searched for `#include "..."
 ```
 	右键  -> Show Blame for Line
 ```
+
+
+## 18. removeFromSuperview的理解
+
+执行这个方法后, 会从父视图中移除, 并且将superview对视图的强引用也删除, 如果此时没有其他地方再对视图进行强引用, 则会从内存中移除. 如果还存在其他强引用, 视图只是不再品目中显示, 并没有将该视图从内存中移除。 如果还需要再次创建, 直接`addSubview`就可以了。
+
+参考:[http://www.jianshu.com/p/b817c94cac0b](http://www.jianshu.com/p/b817c94cac0b)
