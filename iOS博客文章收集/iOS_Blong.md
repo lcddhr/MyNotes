@@ -14,6 +14,10 @@
 1. [swift-summary](https://github.com/jakarmy/swift-summary)
 2. [Swift动画库:](https://github.com/icanzilb/EasyAnimation)EasyAnimation
 
+** 算法 **
+1. [LeetCode_Swift](https://github.com/soapyigu/LeetCode_Swift): leetcode的swift练习
+
+
 ** 导航栏 **
 
 1. [处理导航栏的方式](http://www.jianshu.com/p/b2585c37e14b)

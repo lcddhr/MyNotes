@@ -64,6 +64,7 @@
 ** Button **
 
 1. [PPiAwesomeButton](https://github.com/pepibumur/PPiAwesomeButton)
+2. [LLBootstrapButton](https://github.com/lilei644/LLBootstrapButton): Bootstrap 3.0扁平化风格按钮
 
 ** 相片 **
 
@@ -95,17 +96,19 @@
 1. [Gallop](https://github.com/waynezxcv/Gallop) 
 
 ** 联系人 **
-1.[VeeContactPicker](https://github.com/CodeAtlas/VeeContactPicker)
+
+1. [VeeContactPicker](https://github.com/CodeAtlas/VeeContactPicker)
 
 
 ** 倒计时 **
 
-1.[CountdownLabel](https://github.com/suzuki-0000/CountdownLabel)
+1. [CountdownLabel](https://github.com/suzuki-0000/CountdownLabel)
 
 ** 动画 **
 
-1.[Bzier-Animation-FloatingWindow](https://github.com/HZQuan/Bzier-Animation-FloatingWindow): 圆形的转场动画、有一个浮动的窗口
-2.[fantastic-ios-animation](https://github.com/onmyway133/fantastic-ios-animation): 动画的集合
+1. [Bzier-Animation-FloatingWindow](https://github.com/HZQuan/Bzier-Animation-FloatingWindow): 圆形的转场动画、有一个浮动的窗口
+2. [fantastic-ios-animation](https://github.com/onmyway133/fantastic-ios-animation): 动画的集合
+3. [JRMFloatingAnimation](https://github.com/carleihar/JRMFloatingAnimation):漂浮动画
 
 ** 显示FPS **
 1. [JPFPSStatus](https://github.com/joggerplus/JPFPSStatus)
