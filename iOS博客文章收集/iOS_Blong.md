@@ -15,6 +15,7 @@
 2. [Swift动画库:](https://github.com/icanzilb/EasyAnimation)EasyAnimation
 
 ** 算法 **
+
 1. [LeetCode_Swift](https://github.com/soapyigu/LeetCode_Swift): leetcode的swift练习
 
 
@@ -25,16 +26,22 @@
 3. [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition)
 
 ** 完整app 收集**
-1.[完整app](http://mobdevgroup.com/platform/ios/project)
+
+1.	[完整app](http://mobdevgroup.com/platform/ios/project)
 
 ** RunLoop **
-1.[http://www.starming.com/index.php?v=index&view=74](http://www.starming.com/index.php?v=index&view=74)
-2.[https://github.com/suifengqjn/PerformanceMonitor](https://github.com/suifengqjn/PerformanceMonitor) 
-3.
+
+1.	[http://www.starming.com/index.php?v=index&view=74](http://www.starming.com/index.php?v=index&view=74)
+2.	[https://github.com/suifengqjn/PerformanceMonitor](https://github.com/suifengqjn/PerformanceMonitor) 
 
 ** YY系列源码学习文章 **
 
 1. [YYSeriesStudy](https://github.com/huang303513/YYSeriesStudy)
 
 ** 如何才能不崩溃系列 **
+
 1. [http://ifujun.com/tag/ios/page/3/](http://ifujun.com/tag/ios/page/3/)
+
+** 动画 **
+
+1.	[CABasicAnimation引起的retain cycle分析](http://www.devdiv.com/cabasicanimation_retain_cycle_-blog-6399-57041.html)
