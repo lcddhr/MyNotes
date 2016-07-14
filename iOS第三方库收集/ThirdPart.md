@@ -109,6 +109,7 @@
 1. [Bzier-Animation-FloatingWindow](https://github.com/HZQuan/Bzier-Animation-FloatingWindow): 圆形的转场动画、有一个浮动的窗口
 2. [fantastic-ios-animation](https://github.com/onmyway133/fantastic-ios-animation): 动画的集合
 3. [JRMFloatingAnimation](https://github.com/carleihar/JRMFloatingAnimation):漂浮动画
+4. [Translucid](https://github.com/Ekhoo/Translucid): Swift里面的UIView动画
 
 ** 显示FPS **
 1. [JPFPSStatus](https://github.com/joggerplus/JPFPSStatus)

@@ -197,3 +197,14 @@ Use the User Header Search Paths for paths you want searched for `#include "..."
 
 可以拉取一个`segmentedcontrol`到右边的文件堆栈`exit`上方，然后在`viewDidLoad`里面设置`self.navigationItem.titleView`
 
+
+## 20、Error loading the plugin `cocoapods-keys-1.7.0`.
+
+```
+Error loading the plugin `cocoapods-keys-1.7.0`.
+LoadError - cannot load such file -- /Library/Ruby/Gems/2.0.0/gems/cocoapods-keys-1.7.0/lib/cocoapods_plugin.rb
+```
+解决办法是:
+```
+	sudo chmod -R go+r /Library/Ruby/Gems/2.0.0/gems/cocoapods-keys-1.7.0
+```
