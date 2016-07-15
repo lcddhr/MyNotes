@@ -13,6 +13,7 @@
 
 1. [swift-summary](https://github.com/jakarmy/swift-summary)
 2. [Swift动画库:](https://github.com/icanzilb/EasyAnimation)EasyAnimation
+3. [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift): 侧滑
 
 ** 算法 **
 
@@ -28,6 +29,7 @@
 ** 完整app 收集**
 
 1.	[完整app](http://mobdevgroup.com/platform/ios/project)
+2.	[Celluloid](https://github.com/100mango/Celluloid):Swift应用
 
 ** RunLoop **
 

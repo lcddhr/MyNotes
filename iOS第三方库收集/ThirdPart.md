@@ -65,6 +65,7 @@
 
 1. [PPiAwesomeButton](https://github.com/pepibumur/PPiAwesomeButton)
 2. [LLBootstrapButton](https://github.com/lilei644/LLBootstrapButton): Bootstrap 3.0扁平化风格按钮
+3. [gbkui-button-progress-view](https://github.com/Guidebook/gbkui-button-progress-view): 加载按钮
 
 ** 相片 **
 
@@ -80,6 +81,7 @@
 ** 菜单列表 **
 
 1. [ESTCollectionViewDropDownList](https://github.com/Aufree/ESTCollectionViewDropDownList) : 虾米音乐下拉菜单列表。
+2. [ISHHoverBar](https://github.com/iosphere/ISHHoverBar): 悬浮的菜单, 可以设置水平和竖直方向
 
 ** collection view **
 
@@ -110,6 +112,7 @@
 2. [fantastic-ios-animation](https://github.com/onmyway133/fantastic-ios-animation): 动画的集合
 3. [JRMFloatingAnimation](https://github.com/carleihar/JRMFloatingAnimation):漂浮动画
 4. [Translucid](https://github.com/Ekhoo/Translucid): Swift里面的UIView动画
+5. [DBPrivacyHelper](https://github.com/danielebogo/DBPrivacyHelper): 快速跳转
 
 ** 显示FPS **
 1. [JPFPSStatus](https://github.com/joggerplus/JPFPSStatus)
@@ -171,6 +174,7 @@
 3. [视频弹幕BarrageRenderer](https://github.com/unash/BarrageRenderer)
 4. [视频弹幕HJDanmakuDemo](https://github.com/panghaijiao/HJDanmakuDemo)
 5. [cineio-broadcast-ios](https://github.com/cine-io/cineio-broadcast-ios):RTMP、HLS流
+6. [Live](https://github.com/ltebean/Live)
 
 ** 表格 **
 
