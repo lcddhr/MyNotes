@@ -153,6 +153,7 @@
 5. [Swift物理动画库](https://github.com/AugustRush/Stellar)
 6. [JDAnimationKit](https://github.com/JellyDevelopment/JDAnimationKit):动画集合
 7. [https://github.com/Fnoz/FNMatchPull](https://github.com/Fnoz/FNMatchPull):下拉动画火柴聚合
+8. [FNBlingBlingLabel](https://github.com/Fnoz/FNBlingBlingLabel): 文字若隐若现的动画
 ## Objective-C 
 
 ** page 分页面 **
@@ -174,7 +175,9 @@
 3. [视频弹幕BarrageRenderer](https://github.com/unash/BarrageRenderer)
 4. [视频弹幕HJDanmakuDemo](https://github.com/panghaijiao/HJDanmakuDemo)
 5. [cineio-broadcast-ios](https://github.com/cine-io/cineio-broadcast-ios):RTMP、HLS流
-6. [Live](https://github.com/ltebean/Live)
+6. [Live](https://github.com/ltebean/Live): 直播demo
+7. [MiaowShow](https://github.com/SunLiner/MiaowShow):直播demo
+8. [520Linkee](https://github.com/GrayJIAXU/520Linkee):直播demo
 
 ** 表格 **
 
