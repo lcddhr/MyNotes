@@ -82,6 +82,7 @@
 
 1. [ESTCollectionViewDropDownList](https://github.com/Aufree/ESTCollectionViewDropDownList) : 虾米音乐下拉菜单列表。
 2. [ISHHoverBar](https://github.com/iosphere/ISHHoverBar): 悬浮的菜单, 可以设置水平和竖直方向
+3. [AMPopTip](https://github.com/andreamazz/AMPopTip): 圆形按钮弹出选择菜单
 
 ** collection view **
 
