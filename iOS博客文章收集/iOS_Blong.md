@@ -26,6 +26,11 @@
 2. [导航栏透明处理](https://www.zhihu.com/question/36659843) 
 3. [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition)
 
+** 转场动画 **
+
+1. [XWTransition](https://github.com/wazrx/XWTransition): 封装了很多转场动画
+
+
 ** 完整app 收集**
 
 1.	[完整app](http://mobdevgroup.com/platform/ios/project)

@@ -60,6 +60,8 @@
 4. [MONActivityIndicatorView](https://github.com/mownier/MONActivityIndicatorView)
 5. [CCActivityHUD](https://github.com/Cokile/CCActivityHUD)
 6. [ZHPopupView](https://github.com/zhhlmr/ZHPopupView):弹出框
+7. [PopupDialog](https://github.com/Orderella/PopupDialog):
+8. [LASIImageView](https://github.com/lukagabric/LASIImageView): 加载进度HUD
 
 ** Button **
 
@@ -114,6 +116,7 @@
 3. [JRMFloatingAnimation](https://github.com/carleihar/JRMFloatingAnimation):漂浮动画
 4. [Translucid](https://github.com/Ekhoo/Translucid): Swift里面的UIView动画
 5. [DBPrivacyHelper](https://github.com/danielebogo/DBPrivacyHelper): 快速跳转
+6. [LTransitionImageView](https://github.com/lukagabric/LTransitionImageView): imageView之间的转场动画
 
 ** 显示FPS **
 1. [JPFPSStatus](https://github.com/joggerplus/JPFPSStatus)
