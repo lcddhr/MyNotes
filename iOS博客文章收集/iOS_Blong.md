@@ -61,3 +61,7 @@
 
 1. [https://github.com/orta/pragmatic-testing](https://github.com/orta/pragmatic-testing)
 
+
+** 持续集成 **
+
+1.	[buddybuild](https://dashboard.buddybuild.com/apps) : 云端打包

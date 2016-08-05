@@ -103,8 +103,11 @@
 ** 联系人 **
 
 1. [VeeContactPicker](https://github.com/CodeAtlas/VeeContactPicker)
+2. [EPContactsPicker](https://github.com/ipraba/EPContactsPicker): Swift联系人
 
+** 自定义形状 **
 
+1.	[EPShapes](https://github.com/ipraba/EPShapes):Swift上IB自定义星星、箭头、心形等
 ** 倒计时 **
 
 1. [CountdownLabel](https://github.com/suzuki-0000/CountdownLabel)
@@ -191,6 +194,11 @@
 ** 分享 **
 
 1. [分享的menu视图](https://github.com/ws00801526/XMNShareMenuExample)
+
+** 手势 **
+
+1. [EPSignature](https://github.com/ipraba/EPSignature): Swift手势笔画
+
 
 ** 完整项目 **
 
