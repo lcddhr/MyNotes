@@ -85,12 +85,15 @@
 1. [ESTCollectionViewDropDownList](https://github.com/Aufree/ESTCollectionViewDropDownList) : 虾米音乐下拉菜单列表。
 2. [ISHHoverBar](https://github.com/iosphere/ISHHoverBar): 悬浮的菜单, 可以设置水平和竖直方向
 3. [AMPopTip](https://github.com/andreamazz/AMPopTip): 圆形按钮弹出选择菜单
+4. [DropDown](https://github.com/AssistoLab/DropDown): 下拉列表
+
 
 ** collection view **
 
 1. [GSKStretchyHeaderView](https://github.com/gskbyte/GSKStretchyHeaderView):头部悬停、放大
 2. [GCCardViewController](https://github.com/Yuzeyang/GCCardViewController):iOS7 向上滑动删除任务
 3. [AWCollectionViewSlidingDoors](https://github.com/awdigital/AWCollectionViewSlidingDoors)
+4. [JFCardSelectionViewController](https://github.com/atljeremy/JFCardSelectionViewController):Swift上面的Tabbar选项卡
 
 ** 导航栏 **
 
@@ -120,6 +123,8 @@
 4. [Translucid](https://github.com/Ekhoo/Translucid): Swift里面的UIView动画
 5. [DBPrivacyHelper](https://github.com/danielebogo/DBPrivacyHelper): 快速跳转
 6. [LTransitionImageView](https://github.com/lukagabric/LTransitionImageView): imageView之间的转场动画
+7. [ColorMatchTabs](https://github.com/Yalantis/ColorMatchTabs):Swift上面的Tabl选项卡动画,还有Menu菜单栏动画
+8. [ImageOpenTransition](https://github.com/mcmatan/ImageOpenTransition): Swift上面的转场动画
 
 ** 显示FPS **
 1. [JPFPSStatus](https://github.com/joggerplus/JPFPSStatus)
@@ -161,6 +166,7 @@
 6. [JDAnimationKit](https://github.com/JellyDevelopment/JDAnimationKit):动画集合
 7. [https://github.com/Fnoz/FNMatchPull](https://github.com/Fnoz/FNMatchPull):下拉动画火柴聚合
 8. [FNBlingBlingLabel](https://github.com/Fnoz/FNBlingBlingLabel): 文字若隐若现的动画
+9. [NXDrawKit](https://github.com/Nicejinux/NXDrawKit):Swift上面的手势画线
 ## Objective-C 
 
 ** page 分页面 **
@@ -194,6 +200,7 @@
 ** 分享 **
 
 1. [分享的menu视图](https://github.com/ws00801526/XMNShareMenuExample)
+2. [ISHPullUp](https://github.com/iosphere/ISHPullUp): 上拉提取出菜单
 
 ** 手势 **
 
