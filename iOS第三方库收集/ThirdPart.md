@@ -196,8 +196,11 @@
 
 1. [股票K线图](https://github.com/yate1996/Y_KLine)
 2. [Graphs](https://github.com/recruit-mtl/Graphs): Swift的表格
+3. [BSNumbersView](https://github.com/blurryssky/BSNumbersView): 可以冻结某一列的表格
 
-** 分享 **
+
+*
+* 分享 **
 
 1. [分享的menu视图](https://github.com/ws00801526/XMNShareMenuExample)
 2. [ISHPullUp](https://github.com/iosphere/ISHPullUp): 上拉提取出菜单
